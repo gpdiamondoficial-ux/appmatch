@@ -1,0 +1,3 @@
+-- AppMatch
+-- 06_rules.sql
+-- Regras absolutas e eventos base
