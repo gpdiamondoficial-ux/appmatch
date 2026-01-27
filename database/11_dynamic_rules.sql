@@ -1,3 +1,12 @@
+-- RULE TYPES (valores controlados por constraint):
+-- boost   → aumenta score final
+-- penalty → reduz score final
+--
+-- Observação:
+-- A tabela dynamic_match_rules possui CHECK CONSTRAINT
+-- garantindo integridade semântica dos valores.
+
+
 -- AppMatch
 -- 11_dynamic_rules.sql
 -- Fase 3.2: Regras dinâmicas de matching (penalties e boosts)
